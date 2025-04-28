@@ -1,0 +1,16 @@
+daniel;lot7889;011123347
+henry;lot12343;011134034
+Daniel;lot 7012;011122332
+Ting;lot123443;0112232
+Wei;11, Sungai Long;012-3424355
+Sam;lot11;011-1122334
+w;lot123;01113124
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
+lqq;lot 11;011-2212133
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
+James;123, Taman Baru;012-3456789
